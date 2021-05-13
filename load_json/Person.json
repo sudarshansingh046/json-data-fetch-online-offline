@@ -1,0 +1,30 @@
+[
+    {
+        "name":"sudarshan singh",
+        "age":"23",
+        "height":"6.0",
+        "weight":"70",
+        "gender":"male"
+    },
+    {
+        "name":"tushar barthunia",
+        "age":"21",
+        "height":"5.10",
+        "weight":"69",
+        "gender":"male"
+    },
+    {
+        "name":"Vasu dadhich",
+        "age":"22",
+        "height":"5.11",
+        "weight":"76",
+        "gender":"male"
+    },
+    {
+        "name":"utkarsh jain",
+        "age":"21",
+        "height":"5.9",
+        "weight":"64",
+        "gender":"male"
+    }
+]
