@@ -19,7 +19,6 @@ jobs:
     - run: flutter upgrade
     - run: flutter pub get
     - run: flutter build apk -t lib/main.dart --split-per-abi
-    - run: flutter build ios --release --no-codesign
     - name: Create a Release APK
       uses: ncipollo/release-action@v1
       with:
